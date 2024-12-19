@@ -15,7 +15,7 @@
 
 <div align="center">
     <p>
-        <a href="https://github.com/l033er?tab=repositories">
+        <a href="https://github.com/IkdanYT?tab=repositories">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkdanYT&theme=dark" alt="GitHub Streak">
         </a>
     </p>
