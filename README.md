@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;PYTHON+JAVASCRIPT+TYPESCRIPT+GOLANG" alt="HELLO EVERYONE! PYTHON JAVASCRIPT TYPESCRIPT+GOLANG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;PYTHON+TYPESCRIPT+GOLANG" alt="HELLO EVERYONE! PYTHON TYPESCRIPT GOLANG" />
     </h1>
 </p>
 
